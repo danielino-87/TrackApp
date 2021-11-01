@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">COVID Share and Track</string>
+    <string name="title_activity_maps">COVID Share and Track</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+    <string name="update">IF YOU ARE COVID-19 POSITIVE PUSH HERE FOR LOCATION TRACKING!</string>
+    <string name="message" />
+    <string name="see_covid_sitation_in_the_world">CHECK FOR COVID-19 POSITIVES  AROUND YOU !</string>
+    <string name="see_covid_19_pandemic_situation">SEE COVID-19 Pandemic Situation!!!</string>
+</resources>
